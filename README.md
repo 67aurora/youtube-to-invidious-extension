@@ -10,4 +10,4 @@ A lightweight WebExtension (Manifest V3) that automatically intercepts and redir
   
 Does not redirect the front page or playlists. It only redirects Youtube /watch? links and Shorts.
 
-<img width="513" height="362" alt="redirect" src="https://github.com/user-attachments/assets/a980a501-e381-47d4-96d4-dae58c410a33" />
+<img width="343" height="436" alt="image" src="https://github.com/user-attachments/assets/16c4b87c-9c94-417d-98df-b1b75a8711d2" />
